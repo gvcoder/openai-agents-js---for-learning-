@@ -66,7 +66,7 @@ const updateSeat = tool({
 });
 
 // ------------------------------------------------
-// Agents
+// Custom Agents 
 
 // FAQ Agent
 const faqAgent = new Agent({
